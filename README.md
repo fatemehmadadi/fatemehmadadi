@@ -88,9 +88,3 @@
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=fatemehmadadi&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
-
----
-
-<div align="center">
- <i>"Programming is the art of creating complex things in a simple way."</i>
-</div>
