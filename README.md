@@ -38,28 +38,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=fatemehmadadi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehmadadi&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehmadadi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=fatemehmadadi&theme=radical&row=1&column=6" alt="trophy" />
-</div>
-
 <br>
 
 ## 📫 Connect With Me
@@ -76,8 +54,3 @@
  </a>
 </div>
 
-<br>
-
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=fatemehmadadi&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
