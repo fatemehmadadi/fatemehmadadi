@@ -8,8 +8,6 @@
 ## 🚀 About Me
 
 - 💻 Experienced Laravel Developer
-- 🌱 Currently learning and improving my Vue.js skills
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/fatemehmadadi)
 - 📫 How to reach me: **fatemehmadadi258@gmail.com**
 
 <br>
