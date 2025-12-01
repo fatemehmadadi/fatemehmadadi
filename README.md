@@ -3,11 +3,6 @@
 </div>
 
 # <div align="center">👋 Hi, I'm Fatemeh</div>
-
-<div align="center">
- <b>A passionate Full Stack Developer from Iran</b>
-</div>
-
 <br>
 
 ## 🚀 About Me
