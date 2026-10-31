@@ -1,56 +1,41 @@
-<div align="center">
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
+# Hey 👋 What's up?
 
-# <div align="center">👋 Hi, I'm Fatemeh</div>
-<br>
+I'm Fatemeh Madadi — a Backend Developer passionate about software engineering, system design, and building software that is reliable, maintainable, and built to last.
 
-## 🚀 About Me
+## About Me
 
-- 💻 Experienced Laravel Developer
-- 📫 How to reach me: **fatemehmadadi258@gmail.com**
+I'm a software developer specializing in backend development with PHP and Laravel, with over 3.5 years of experience working on web applications and backend systems.
 
-<br>
+I believe good software engineering goes beyond writing code that simply works. It's about understanding problems, making thoughtful technical decisions, and designing solutions that remain maintainable as applications grow.
+
+My approach to development is centered around clean architecture, separation of concerns, reusable components, and writing code that is easy to understand, test, and extend.
+
+I'm particularly interested in backend architecture, database design and optimization, caching strategies, asynchronous processing, and distributed systems. I enjoy exploring how different components interact, understanding the trade-offs behind architectural decisions, and finding practical ways to build more efficient and scalable applications.
+
+I value continuous learning, technical curiosity, and solving problems through thoughtful engineering rather than unnecessary complexity.
+
+My goal is to keep growing as a software engineer and contribute to building systems that are not only functional but also thoughtfully designed and dependable.
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
- 
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- 
-</div>
+**Backend Development**
 
-<br>
+PHP · Laravel · RESTful APIs
 
-<br>
+**Databases & Caching**
 
-## 📫 Connect With Me
+MySQL · PostgreSQL · Redis
 
-<div align="center">
- <a href="https://github.com/fatemehmadadi">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
- </a>
- <a href="https://www.linkedin.com/in/fatemeh--madadi">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
- <a href="mailto:fatemehmadadi258@gmail.com">
- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
- </a>
-</div>
+**Frontend Development**
 
+JavaScript · Vue.js · Nuxt · Tailwind CSS
+
+**DevOps & Development Tools**
+
+Docker · Linux · Git
+
+## 📫 Let's Connect
+
+- **Email:** fatemehmadadi258@gmail.com
+- **GitHub:** [fatemehmadadi](https://github.com/fatemehmadadi)
+- **LinkedIn:** [Fatemeh Madadi](https://www.linkedin.com/in/fatemeh--madadi)
