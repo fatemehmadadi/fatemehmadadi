@@ -1,18 +1,18 @@
 # Hey 👋 What's up?
 
-I'm Fatemeh Madadi — a Backend Developer passionate about software engineering, system design, and building reliable, maintainable, and scalable applications.
+I'm Fatemeh Madadi, a Backend Developer focused on PHP, Laravel, and backend application development.
 
-## 🚀 About Me
+## About Me
 
-I'm a Backend Developer specializing in **PHP and Laravel**, with over 3.5 years of experience in web development.
+I have over 3.5 years of experience in web development, primarily working with PHP and Laravel.
 
-I enjoy designing and developing backend systems, building robust RESTful APIs, and solving complex problems through clean and well-structured code.
+My work mainly involves developing backend functionality, designing RESTful APIs, working with relational databases, and structuring application logic.
 
-My approach to software development goes beyond making things work. I care about code quality, maintainability, performance, and making thoughtful architectural decisions that help applications evolve over time.
+I'm interested in software architecture and the engineering concepts behind backend systems, particularly database design, caching, asynchronous processing, and application scalability.
 
-I'm particularly interested in backend architecture, database design, caching strategies, asynchronous processing, and distributed systems. I continuously explore new technologies and engineering practices to strengthen my understanding of how reliable software systems are designed and built.
+Beyond my day-to-day work, I spend time exploring backend technologies, understanding architectural patterns, and working on projects that help me gain a deeper understanding of software development.
 
-I believe great software is the result of good engineering decisions, continuous improvement, and attention to detail.
+I'm currently focused on expanding my knowledge of backend engineering, distributed systems, and modern application architecture.
 
 ## 🛠️ Tech Stack & Tools
 
